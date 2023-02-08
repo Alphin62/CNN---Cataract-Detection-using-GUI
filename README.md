@@ -1,4 +1,4 @@
-# _CNN - Cataract-Detection-using-GUI_
+# _CNN - Cataract Detection using GUI_
 
 As the files are too large, refer the links below and the project report.
 
